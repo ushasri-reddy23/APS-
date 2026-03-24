@@ -161,4 +161,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ushasri-reddy23/APS-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
