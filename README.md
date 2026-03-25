@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ushasri-reddy23/APS-/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ushasri-reddy23/APS-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/ushasri-reddy23/APS-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ushasri-reddy23/APS-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ushasri-reddy23/APS-/tree/master/0234-palindrome-linked-list) |
@@ -180,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ushasri-reddy23/APS-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasri-reddy23/APS-/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ushasri-reddy23/APS-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasri-reddy23/APS-/tree/master/0199-binary-tree-right-side-view) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ushasri-reddy23/APS-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ushasri-reddy23/APS-/tree/master/0199-binary-tree-right-side-view) |
