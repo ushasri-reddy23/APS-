@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ushasri-reddy23/APS-/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ushasri-reddy23/APS-/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ushasri-reddy23/APS-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/ushasri-reddy23/APS-/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ushasri-reddy23/APS-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ushasri-reddy23/APS-/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ushasri-reddy23/APS-/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/ushasri-reddy23/APS-/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ushasri-reddy23/APS-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ushasri-reddy23/APS-/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ushasri-reddy23/APS-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/ushasri-reddy23/APS-/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ushasri-reddy23/APS-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ushasri-reddy23/APS-/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ushasri-reddy23/APS-/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/ushasri-reddy23/APS-/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -275,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ushasri-reddy23/APS-/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/ushasri-reddy23/APS-/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
